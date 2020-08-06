@@ -1,1 +1,1 @@
-web: flower --port=$PORT
+web: flower
