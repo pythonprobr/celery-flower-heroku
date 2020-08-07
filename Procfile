@@ -1,1 +1,1 @@
-web: flower --broker=$FLOWER_BROKER_URL --port=88 --persistent=false
+web: flower --broker=$FLOWER_BROKER_URL --port=80 --persistent=false
