@@ -1,1 +1,1 @@
-web: flower --broker=$FLOWER_BROKER_URL --port=$PORT
+web: flower --broker=$FLOWER_BROKER_URL --port=$PORT --logging=DEBUG
